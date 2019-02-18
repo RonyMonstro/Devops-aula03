@@ -1,6 +1,6 @@
 Ferramentas de controle de versão
 
 Murcuria
-GitHub
+GitLab
 Subversion
 Cvs
